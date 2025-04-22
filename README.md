@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Frontend Mentor - Product preview card component
 
 ![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
@@ -90,3 +91,7 @@ We love receiving feedback! We're always looking to improve our challenges and o
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
+=======
+# Product-Preview-Card-Project
+This is a clone of the Product Preview Card Project from Frontend Mentor
+>>>>>>> 11bcb8176d6267d019d3d6298dd9b529843d796e
