@@ -1,0 +1,37 @@
+.chanel{
+    background-image: url(/images/image-product-desktop.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: cover;
+    /* border-radius: inherit; */
+}
+h1{
+    font-family: "Montserrat", sans-serif;
+}
+h2{
+    font-family: "Fraunces", serif;
+}
+p{
+    font-family: "Fraunces", serif;
+}
+button{
+    font-family: "Fraunces", serif;
+}
+@media(max-width:600px){
+    .chanel{
+        background-image: url(/images/image-product-mobile.jpg);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        /* border-radius: inherit; */
+    }
+}
+@media(min-width:400px){
+    .chanel{
+        background-image: url(/images/image-product-mobile.jpg);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        /* border-radius: inherit; */
+    }
+}
